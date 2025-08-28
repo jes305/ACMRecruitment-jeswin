@@ -1,0 +1,14 @@
+# River Crossing Riddle Solution
+
+## Step-by-step sequence
+
+1. Farmer takes Goat across.
+2. Farmer goes back alone.
+3. Farmer takes Wolf across.
+4. Farmer brings Goat back.
+5. Farmer takes Cabbage across.
+6. Farmer goes back alone.
+7. Farmer takes Goat across.
+
+all are safe
+
