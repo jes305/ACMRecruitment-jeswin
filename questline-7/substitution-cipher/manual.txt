@@ -1,0 +1,5 @@
+ decode (-3)
+ WELCOME
+ 
+ encode(+3)
+ UHFUXLW
