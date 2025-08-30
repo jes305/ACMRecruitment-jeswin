@@ -1,0 +1,19 @@
+A (1) and B (2) cross → 2 minutes elapsed.
+
+(Now across: A,B. Remaining: C,D. Torch on far side.)
+
+A (1) returns with torch → +1 minute (total 3).
+
+(Across: B. Remaining: A,C,D. Torch on original side.)
+
+C (7) and D (10) cross together → +10 minutes (total 13).
+
+(Across: B,C,D. Remaining: A. Torch on far side.)
+
+B (2) returns with torch → +2 minutes (total 15).
+
+(Across: C,D. Remaining: A,B. Torch on original side.)
+
+A (1) and B (2) cross → +2 minutes (total 17).
+
+
