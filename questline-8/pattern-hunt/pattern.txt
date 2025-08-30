@@ -1,0 +1,2 @@
+The differences are +4, +6, +8 (increasing by 2), so next are +10 and +12 → 20+10=30, 30+12=42.
+
