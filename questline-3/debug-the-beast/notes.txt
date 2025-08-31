@@ -1,0 +1,15 @@
+#1
+it show a bad initialization 
+insted of using ""large =second = -9999999""
+we could give float()
+
+
+#2
+this file dont give output for dupilcate values also
+example :
+ input:[5,5,5]
+ output:secondlargest is :5
+ 
+ instead of this we could correct this code by
+ check num!= largest 
+ 
