@@ -1,0 +1,8 @@
+I chose bubble sort in this case.
+
+it is more simple to code the program
+works for simple lists
+
+input:[5,2,9,1,5,6]
+
+output:[1,2,5,5,6,9]
