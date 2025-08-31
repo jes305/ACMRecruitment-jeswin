@@ -1,0 +1,17 @@
+# String Reversal in Python
+# Iterative Method
+We reverse the string by looping from the last character to the first and building the reversed string step by step.
+Steps
+1. Start with an empty string.
+2. Loop through the input string backwards.
+3. Append each character to the result string.
+4. The result will be the reversed string.
+
+# Recursive Method
+We reverse the string by recursion.
+
+Steps:
+1.  If the string length is 0 or 1, return the string as it is.
+2. Recursive step: Take the last character + call the function again with the rest of the string.
+3. This process continues until the step 1 is reached.
+
