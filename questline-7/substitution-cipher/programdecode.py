@@ -12,9 +12,9 @@ def caesar(text, shift):
 msg = "ZHOFRPH"
 shift = -3
 
-enc = caesar(msg, shift)       # Encode
+ #enc = caesar(msg, shift)       # Encode
 dec = caesar(enc, -shift)      # Decode
 
 print("Original:", msg)
-print("Encoded :", enc)
+#print("Encoded :", enc)
 print("Decoded :", dec)
