@@ -1,6 +1,6 @@
-def caesar(text, shift):
+def caesar(msg, shift):
     result = ""
-    for c in text:
+    for c in msg:
         if c.isalpha():
             base = 'A' if c.isupper() else 'a'
             result += chr((ord(c) - ord(base) + shift) % 26 + ord(base))
