@@ -13,7 +13,7 @@ msg = "ZHOFRPH"
 shift = -3
 
  #enc = caesar(msg, shift)       # Encode
-dec = caesar(enc, -shift)      # Decode
+dec = caesar(enc, shift)      # Decode
 
 print("Original:", msg)
 #print("Encoded :", enc)
