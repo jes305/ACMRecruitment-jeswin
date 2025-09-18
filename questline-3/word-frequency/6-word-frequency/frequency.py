@@ -13,5 +13,5 @@ for word in words:
 items = sorted(freq.items(), key=lambda x: x[1], reverse=True)
 
 for word, count in items:
-    print(f"{word} = {count}")
+    print(f"{word} → {count}")
 
