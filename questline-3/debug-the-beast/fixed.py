@@ -15,7 +15,5 @@ n = int(input("Enter number of elements: "))
 arr = list(map(int, input("Enter numbers: ").split()))
 
 output=second_largest(arr)
-if output  is None:
-    print("second largest:",output)
-else:
-    print("no second largest")
+print("second largest:",output)
+
